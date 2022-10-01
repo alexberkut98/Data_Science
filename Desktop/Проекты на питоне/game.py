@@ -3,7 +3,7 @@
 from itertools import count
 import numpy as np
 
-n=0
+n=45
 
 
 def random_predict(n1):
