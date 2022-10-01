@@ -3,6 +3,7 @@
 from itertools import count
 import numpy as np
 
+#Переменная чисто для тренировки работы с версиями
 n=99
 
 
